@@ -1,0 +1,2 @@
+The program will prompt the user to enter,  Width, height, Number of Nodes, Transmission range when prompted by the 
+program, 3 choice given to run the program, 0 to use recursive DFS, 1 to use BFS using Queue, 2 to use DFS using Stack, and rest of the program will be executed.
